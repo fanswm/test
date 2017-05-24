@@ -1,0 +1,11 @@
+在浏览器打开同性交友网站github.com
+新建一个仓库：例如test
+在本地shell：
+$ https://github.com/fanswm/test.git
+$ vim test.py
+$ git add .
+$ git commit -m"first commit"
+$ git push
+输入在github.com上的你的用户名：fanswm
+输入你的用户名的密码（fanswm的）。
+OK！
