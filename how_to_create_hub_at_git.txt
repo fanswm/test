@@ -9,3 +9,6 @@ $ git push
 输入在github.com上的你的用户名：fanswm
 输入你的用户名的密码（fanswm的）。
 OK！
+
+$ git config --global push.default simple
+
